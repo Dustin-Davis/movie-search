@@ -1,5 +1,5 @@
 {
-  "name": "final-project",
+  "name": "movie-search",
   "version": "1.0.0",
   "private": true,
   "description": "A full stack JavaScript solo project.",
@@ -48,5 +48,16 @@
     "webpack-cli": "^4.10.0",
     "webpack-dev-middleware": "^5.3.3",
     "webpack-hot-middleware": "^2.25.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dustin-Davis/movie-search-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dustin-Davis/movie-search-react/issues"
+  },
+  "homepage": "https://github.com/Dustin-Davis/movie-search-react#readme"
 }
